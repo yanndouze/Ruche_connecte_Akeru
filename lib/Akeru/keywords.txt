@@ -1,0 +1,37 @@
+#######################################
+# Syntax Coloring Map Akeru
+#######################################
+
+#######################################
+# Datatypes (KEYWORD1)
+#######################################
+
+Akeru	KEYWORD1
+Akene	KEYWORD1
+
+#######################################
+# Methods and Functions (KEYWORD2)
+#######################################
+
+echoOn	KEYWORD2
+echoOff	KEYWORD2
+begin	KEYWORD2
+isReady	KEYWORD2
+sendAT	KEYWORD2
+sendPayload	KEYWORD2
+getTemperature	KEYWORD2
+getID	KEYWORD2
+getVoltage	KEYWORD2
+getHardware	KEYWORD2
+getFirmware	KEYWORD2
+getPower	KEYWORD2
+setPower	KEYWORD2
+receive	KEYWORD2
+toHex	KEYWORD2
+
+#######################################
+# Constants (LITERAL1)
+#######################################
+
+
+
